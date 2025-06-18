@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aZSbsuAMrX4=",
+  "dgSpecHash": "D7HYNbi4AiA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxwe\\Downloads\\Assignment1Skeleton\\ModernAppliances\\Samples\\Samples.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\maxwe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\maxwe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\maxwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\maxwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\maxwe\\Desktop\\OOP_Assigment_1\\ModernAppliances\\Samples\\Samples.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

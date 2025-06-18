@@ -8,12 +8,12 @@ namespace Samples
     {
         static void Main(string[] args)
         {
-            // PromptForInput();
-            // FindSingleItemInList();
-            // FindHighestItemInList();
-            // FindMultipleItemsInList();
+            PromptForInput();
+            FindSingleItemInList();
+            FindHighestItemInList();
+            FindMultipleItemsInList();
             GenerateRandomStudents();
-            // DownCast();
+            DownCast();
         }
 
         static void PromptForInput()

@@ -1,0 +1,16 @@
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.sourcelink.json
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\maxwe\Desktop\OOP_Assigment_1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
