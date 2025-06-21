@@ -190,7 +190,7 @@ namespace ModernAppliances
             // Get user input as string and assign to variable
             string input = Console.ReadLine();
             // Create grade variable to hold grade to find (Any, Residential, or Commercial)
-            string grade = "";
+            string grade;
 
 
             // Test input is "0"
@@ -230,8 +230,9 @@ namespace ModernAppliances
             // Write "Enter voltage:"
             Console.WriteLine("Enter voltage: ");
             // Get user input as string
-            // Create variable to hold voltage
             input = Console.ReadLine();
+            // Create variable to hold voltage
+            int voltage;
             // Test input is "0"
             // Assign 0 to voltage
             // Test input is "1"
@@ -242,7 +243,6 @@ namespace ModernAppliances
             // Write "Invalid option."
             // Return to calling (previous) method
             // return;
-            int voltage;
             if (input == "0")
             {
                 voltage = 0;
@@ -448,17 +448,17 @@ namespace ModernAppliances
             // Write "2 – Vacuums"
             // Write "3 – Microwaves"
             // Write "4 – Dishwashers"
-            Console.WriteLine("0 - Any, 1 – Refrigerators, 2 – Vacuums, 3 – Microwaves, 4 – Dishwashers");
+            Console.WriteLine("0 - Any\n1 – Refrigerators\n2 – Vacuums\n3 – Microwaves\n4 – Dishwashers");
             // Write "Enter type of appliance:"
             Console.WriteLine("Enter type of appliance:");
             // Get user input as string and assign to appliance type variable
-            int applianceType = int.Parse(Console.ReadLine());
+            int applianceType = int.Parse(Console.ReadLine());            
             // Write "Enter number of appliances: "
-            //Console.WriteLine("Enter number of appliances: ");
+            Console.WriteLine("Enter number of appliances: ");
             // Get user input as string and assign to variable
-
+            string input = Console.ReadLine();
             // Convert user input from string to int
-            //int applianceNum = int.Parse(Console.ReadLine());
+            int numAppliances = int.Parse(input);
             // Create variable to hold list of found appliances
             List<Appliance> found = new List<Appliance>();
             // Loop through appliances
